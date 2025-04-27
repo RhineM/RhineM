@@ -1,6 +1,6 @@
 
-I’m currently learning front-end web development using Reactjs.
-Open to new ideas:-)
+I’m currently learning Cybersecurity specifically SOC Analysis.
+Open to new ideas and projects:-)
 
 <!---
 RhineM/RhineM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
